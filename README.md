@@ -1,3 +1,3 @@
 # JenkinsJob-HelloWorld
 
-Hello once more
+Hello
